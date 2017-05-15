@@ -481,5 +481,57 @@
 				}
 			]
 		}
+	],"homestar":[
+		{
+			"imgsrc":"img/homestar01.png",
+			"title":"小米手机5 64GB",
+			"desc":"四轴防抖相机，能刷公交卡、银行卡",
+			"price":"1799元"
+		},{
+			"imgsrc":"img/homestar02.png",
+			"title":"小米5S Plus",
+			"desc":"骁龙821旗舰处理器，轻薄金属机身",
+			"price":"2299元起"
+		},{
+			"imgsrc":"img/homestar03.png",
+			"title":"小米5S",
+			"desc":"骁龙821处理器，超声波指纹识别",
+			"price":"1999元"
+		},{
+			"imgsrc":"img/homestar04.png",
+			"title":"小米电视4A 43英寸",
+			"desc":"5月10日-14日享3期分期免息",
+			"price":"2099元"
+		},{
+			"imgsrc":"img/homestar05.jpg",
+			"title":"小米笔记本",
+			"desc":"更轻更薄，像杂志一样随身携带",
+			"price":"3599元起"
+		},{
+			"imgsrc":"img/homestar06.jpg",
+			"title":"10000mAh小米移动电源2",
+			"desc":"双向快充，高密度锂聚合物电芯",
+			"price":"79元"
+		},{
+			"imgsrc":"img/homestar07.jpg",
+			"title":"小米手环 2",
+			"desc":"OLED 显示屏幕，升级计步算法",
+			"price":"149元"
+		},{
+			"imgsrc":"img/homestar08.png",
+			"title":"小米盒子3s",
+			"desc":"人工智能机顶盒，2GB+8GB 大存储",
+			"price":"299元"
+		},{
+			"imgsrc":"img/homestar09.png",
+			"title":"米家车载空气净化器",
+			"desc":"双风机循环气流，高效净化车内空气",
+			"price":"449元"
+		},{
+			"imgsrc":"img/homestar10.jpg",
+			"title":"米家飞利浦智睿台灯二代",
+			"desc":"感知环境光，主动优化场景照明",
+			"price":"199元"
+		}
 	]
 }

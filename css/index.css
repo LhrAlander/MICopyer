@@ -834,10 +834,12 @@ dl, menu, ol, ul {
     overflow: hidden;
 }
 .change-item-s .title {
+    width: 94px;
     display: inline-block;
     margin: -10px 110px 5px 30px;
     font-size: 14px;
     font-weight: 400;
+    text-align: left;
 }
 .change-item-s .more {
     display: block;
@@ -912,17 +914,20 @@ dl, menu, ol, ul {
 .change-item .flag-gift {
     background-color: #2196f3;
 }
+.change-item .flag-postfree {
+    background-color: #ffac13;
+}
 .change-item .review-wrapper {
     position: absolute;
     bottom: 0;
     left: 0;
     z-index: 3;
     width: 234px;
-    height: 73px;
+    height: 0;
     overflow: hidden;
     font-size: 12px;
     background: #ff6700;
-    opacity: 1;
+    opacity: 0;
     filter: alpha(opacity=0)\9;
     -webkit-transition: all .2s linear;
     transition: all .2s linear;
@@ -949,6 +954,12 @@ dl, menu, ol, ul {
     -webkit-transform:translate3d(0,-2px,0);
     transform:translate3d(0,-2px,0)
 }
+
+.change-item:hover .review-wrapper {
+    opacity: 1;
+    height: 73px;
+}
+
 #recommend {
     margin-bottom: 22px;
 }
@@ -1167,6 +1178,10 @@ dl, menu, ol, ul {
     padding:0;
     list-style-type:none
 }
+.carousel-wrapper {
+    width: 296px;
+    overflow: hidden;
+}
 .content-item {
     position:relative;
     float:left;
@@ -1198,6 +1213,7 @@ dl, menu, ol, ul {
 }
 .content-item .item-list {
     height:340px;
+    width: 888px;
     margin:0;
     padding:0;
     list-style-type:none;
@@ -1487,7 +1503,7 @@ dl, menu, ol, ul {
     width:1240px;
     height:285px;
     margin:0;
-    padding:0;
+    padding:0 0 62px;
     list-style-type:none
 }
 .video-item {
@@ -1569,4 +1585,13 @@ dl, menu, ol, ul {
     font-size:12px;
     color:#b0b0b0
 } 
+
+
+.footer ul.list-service {
+    margin: 0;
+}
+
+.footer-links dl {
+    margin: 0;
+}
 

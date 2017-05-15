@@ -17,6 +17,73 @@ body, button, input, select, textarea {
 div {
 	box-sizing: border-box;
 }
+
+.btn {
+    display: inline-block;
+    width: 158px;
+    height: 38px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #b0b0b0;
+    font-size: 14px;
+    line-height: 38px;
+    text-align: center;
+    color: #b0b0b0;
+    cursor: pointer;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+}
+
+.btn-small {
+    width: 118px;
+    height: 28px;
+    font-size: 12px;
+    line-height: 28px;
+}
+
+.btn-line-orange {
+    border-color: #ffac13;
+    background: #fff;
+    color: #ffac13;
+}
+
+.btn-line-orange:hover {
+    background: #ffac13;
+    color: #fff;
+}
+
+.btn-line-ocean {
+    border-color: #2196f3;
+    background: #fff;
+    color: #2196f3;
+}
+.btn-line-ocean:hover {
+    background: #2196f3;
+    color: #fff;
+}
+
+.btn-line-red {
+    border-color: #e53935;
+    background: #fff;
+    color: #e53935;
+}
+.btn-line-red:hover {
+    background: #e53935;
+    color: #fff;
+}
+
+.btn-line-green {
+    border-color: #83c44e;
+    background: #fff;
+    color: #83c44e;
+}
+.btn-line-green:hover {
+    background: #83c44e;
+    color: #fff;
+}
+
+
+
 .fn-clear:after {
 	content: '';
 	display: block;
@@ -260,7 +327,7 @@ div {
 }
 .footer .list-service .iconfont {
 	margin-right: 6px;
-	font-size: 29px;
+	font-size: 23px;
 	line-height: 24px;
 	vertical-align: -4px;
 }
@@ -280,6 +347,7 @@ div {
 }
 .footer .footer-links .col-links dd {
 	margin: 10px 0 0;
+	height: 18px;
 	font-size: 12px;
 	line-height: 1.25;
 	color: #424242;
