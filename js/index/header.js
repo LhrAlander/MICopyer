@@ -1,4 +1,4 @@
-//初始化navItem
+//鍒濆鍖杗avItem
 function initNavItem(){
 	$.getJSON("data/index/headerNavItem.json", function(result) {
 					var data = result.category;
@@ -10,7 +10,7 @@ function initNavItem(){
 	
 }
 
-//mouserover填充数据
+//mouserover濉厖鏁版嵁
 var headerFlag = false;
 var timeoutid=null;
 var timeinid=null;
@@ -100,7 +100,7 @@ function judgeUp(e) {
 		}
 	}
 }
-//searchbox的添加：
+//searchbox鐨勬坊鍔狅細
 function initSearchBox(){
 	$.getJSON("data/index/headerNavItem.json", function(result) {
 					var data = result;
@@ -108,6 +108,9 @@ function initSearchBox(){
 					var template = $.templates("#headerSearchTmpl");
 					var htmlOutput = template.render(data);
 					$('.header-search').html(htmlOutput);
+					$('.header-search').on('mouseover',searchBoxMouseover);
+					$('.header-search').on('mouseout',searchBoxMouseout);
+
 					$('.search-text').on('focus',searchBoxFoucs);
 					$('.search-text').on('blur',function(){
 						$(this).css('border','1px solid #e0e0e0');
@@ -115,10 +118,21 @@ function initSearchBox(){
 						$('.search-hotwords').fadeToggle(300);
 						$('.search-keywordlist').hide();
 
-					})
+					});
+					
 				});
 }
-
+function searchBoxMouseover(e){
+	if($('.search-text').is(':focus'))return;
+	$('.search-text').css('border','1px solid #B5B5B5');
+	$('.search-btn').css('border','1px solid #B5B5B5');
+}
+function searchBoxMouseout(e){
+	if($('.search-text').is(':focus'))return;
+	$('.search-text').css('border','1px solid #e0e0e0');
+	$('.search-btn').css('border','1px solid #e0e0e0');
+	
+}
 function searchBoxFoucs(e){
 	$(this).css('border', '1px solid #ff6700');
 	$('.search-btn').css('border','1px solid #ff6700');

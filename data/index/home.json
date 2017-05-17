@@ -115,7 +115,7 @@
 				{
 					"imgsrc":"img/homesliderTV01.jpg",
 					"goodsname":"小米电视4A 43英寸",
-					"buybtn":"选购"
+					"buybtn":""
 				},{
 					"imgsrc":"img/homesliderTV02.jpg",
 					"goodsname":"小米电视4A 49英寸",
@@ -295,7 +295,7 @@
 				},{
 					"imgsrc":"img/homesliderBattery03.jpg",
 					"goodsname":"品牌移动电源",
-					"buybtn":"选购"
+					"buybtn":""
 				},{
 					"imgsrc":"img/homesliderBattery04.jpg",
 					"goodsname":"移动电源附件",

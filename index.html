@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset='utf-8'>
@@ -179,7 +179,7 @@
     
 
 
-       <div class="main">
+    <div class="main">
         <div class="container">
             <div id="smart" class="main-brick-box main-row-2-box">
             <!-- 已填充 -->
@@ -206,11 +206,7 @@
             </div><!-- video -->
         </div><!-- container -->
     </div><!-- main -->
-
-
-
-
-
+    
     <div class="footer">
             <div class="container">
                 <div class="footer-service">
@@ -249,15 +245,12 @@
                     <dd><a href="#">防伪查询</a></dd></dl>
                     <div class="col-contact"><p class="phone">400-100-5678</p>
                     <p><span class="servicetime">周一至周日 8:00-18:00</span>
-                <br>（仅收市话费）</p>
-                <a href="#" class="btn"><i class="iconfont">&#xe619;</i> 24小时在线客服</a>
+                    <br>（仅收市话费）</p>
+                    <a href="#" class="btn"><i class="iconfont">&#xe619;</i> 24小时在线客服</a>
+                    </div>
+                </div>
             </div>
-        </div>
     </div>
-</div>
-
-
-
 <div class="end-info">
     <div class="container fn-clear">
         <div class="logo"></div>
@@ -351,7 +344,11 @@
                             <ul class="list-goods list-goods-col-{{:colnum}}">
                                 {{for goods}}
                                     <li class="star-goods">
+                                        {{if buybtn}}
                                         <a href="#" class="link">
+                                        {{else}}
+                                        <a href="#" class="link link-max">
+                                        {{/if}}
                                             <img src={{:imgsrc}} alt="">
                                             <span class="text">{{:goodsname}}</span>
                                         </a>

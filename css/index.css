@@ -334,15 +334,22 @@ dl, menu, ol, ul {
     position: relative;
 }
 .home-slider-list .star-goods .link {
-    display: inline-block;
+    display: block;
     overflow: visible;
     overflow-wrap: normal;
-    width: 100%;
+    width: 170px;
     padding: 18px 20px;
     padding-right: 0;
     line-height: 40px;
     color: #333;
-    transform: color .2s;
+    transition: color .2s;
+}
+.home-slider-list .star-goods .link-max {
+    width: 100%;
+}
+.home-slider-list .star-goods .link:hover .text{
+    color: #ff6700;
+    transition: color .2s;
 }
 .home-slider-list .star-goods img {
     margin-right: 8px;
@@ -350,6 +357,7 @@ dl, menu, ol, ul {
 }
 .home-slider-list .star-goods .text {
     line-height: 40px;
+    word-wrap:
 }
 .home-slider-list .star-goods .star-goods-btn {
     position: absolute;
@@ -367,6 +375,10 @@ dl, menu, ol, ul {
     text-align: center;
     transition: all .4s;
 
+}
+.home-slider-list .star-goods .star-goods-btn:hover {
+    color: #fff;
+    background-color: #ff6700;
 }
 .home-bigpic {
     position: absolute;
@@ -1564,7 +1576,8 @@ dl, menu, ol, ul {
 }
 .video-item .play i {
     font-size:15px;
-    line-height:20px
+    line-height:20px;
+    cursor: pointer;
 }
 .video-item .title {
     margin:0 0 6px;
