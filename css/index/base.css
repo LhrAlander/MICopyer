@@ -408,7 +408,7 @@ div {
 	width: 57px;
 	height: 57px;
 	margin-right: 10px;
-	background: url(../img/logo-footer.png) no-repeat 50% 50%;
+	background: url('../../img/logo-footer.png') no-repeat 50% 50%;
 }	
 
 .end-info .info-text {
@@ -448,5 +448,5 @@ div {
 	margin: 30px auto 0;
 	width: 268px;
 	height: 19px;
-	background: url('../img/slogan2016.png');
+	background: url('../../img/slogan2016.png');
 }

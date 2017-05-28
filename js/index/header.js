@@ -22,7 +22,12 @@ function addheaderHover() {
 					var data = result[index].items;
 					var template = $.templates("#headerNavMenuTmpl");
 					var htmlOutput = template.render(data);
-					$('.nav-menu-list').html(htmlOutput)
+					$('.nav-menu-list').html(htmlOutput);
+						$('.nav-menu-list li:first .figure').on('click',function(){
+					window.location.href='mi6.html';
+					console.log(1);
+					});
+					$('.nav-menu-list li:first .info a').attr('href','mi6.html');
 				});
 			}
 			t && (clearTimeout(t), t = null),
@@ -55,7 +60,8 @@ function addheaderHover() {
 			}, 200);
 			}
 		}
-	})
+	});
+
 }	
 
 //searchboxµÄÌí¼Ó£º

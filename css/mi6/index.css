@@ -442,11 +442,11 @@ dl, menu, ol, ul {
 }
 .home-controls .controls-direction .prev {
     left:234px;
-    background:url(../img/icon-slides.png) no-repeat -84px 50%
+    background:url('../../img/icon-slides.png') no-repeat -84px 50%
 }
 .home-controls .controls-direction .next {
     right:0;
-    background:url(../img/icon-slides.png) no-repeat -125px 50%
+    background:url('../../img/icon-slides.png') no-repeat -125px 50%
 }
 .home-controls .controls-direction .prev:hover {
     background-position:0 50%
