@@ -14,11 +14,7 @@ function inithome(){
 					items.each(function(){
 						$(this).on('mouseover',addSliderItemHover);
 					});
-
-
-
-
-
+					$('.home-slider-list').find('.star-goods').eq(0).children('.link').attr('href','mi6.html');
 
 					template = $.templates("#homeStarTmpl");
 					htmlOutput = template.render(data);
