@@ -18,11 +18,11 @@ dl, menu, ol, ul {
 }
 @font-face {
   font-family: 'iconfont';  /* project id 295425 */
-  src: url('https://at.alicdn.com/t/font_7kachfcnx1mm42t9.eot');
-  src: url('https://at.alicdn.com/t/font_7kachfcnx1mm42t9.eot?#iefix') format('embedded-opentype'),
-  url('https://at.alicdn.com/t/font_7kachfcnx1mm42t9.woff') format('woff'),
-  url('https://at.alicdn.com/t/font_7kachfcnx1mm42t9.ttf') format('truetype'),
-  url('https://at.alicdn.com/t/font_7kachfcnx1mm42t9.svg#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_pl7gl2zqxwcxflxr.eot');
+  src: url('//at.alicdn.com/t/font_pl7gl2zqxwcxflxr.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_pl7gl2zqxwcxflxr.woff') format('woff'),
+  url('//at.alicdn.com/t/font_pl7gl2zqxwcxflxr.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_pl7gl2zqxwcxflxr.svg#iconfont') format('svg');
 }
 .iconfont {
     font-family: "iconfont" !important;
@@ -230,9 +230,9 @@ dl, menu, ol, ul {
     display: none;
 }
 .header .header-nav-menu .flag{
+    display: inline-block;
     font-size: 12px;
     height: 22px;
-    width: 66px;
     padding: 1px 20px;
     border: 1px solid #ff6700;
     color: #ff6700;
