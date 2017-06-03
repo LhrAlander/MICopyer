@@ -44,7 +44,7 @@
 2.用户购物车数据表 usergoods：
 <table><tr><th>字段名称</th><th>类型</th></tr><tr><td>username</td><td>varchar(20)</td></tr><tr><td>goodsid</td><td>int</td></tr><tr><td>num</td><td>int</td></tr><tr><td>gettype</td><td>varchar(20)</td></tr></table>
 
-##文件说明：
+## 文件说明：
 因为在最后的一点的时间里各个成员递交的代码杂乱，没有时间做整合工作，所以独立了出来三个文件夹；
-<table><tr><th>文件夹</th><th>作用</th></tr><tr><td>tf</td><td>入口文件夹，包含了主页和两个商品页面</td></tr><tr><td>car1</td><td>购物车页面</td></tr><tr><td>web</td><td>用户登录和注册页面</td></tr></table>
+<table><tr><th>文件夹</th><th>作用</th></tr><tr><td>tf</td><td>入口文件夹，包含了主页和两个商品页面</td></tr><tr><td>car1</td><td>购物车页面</td></tr><tr><td>web</td><td>用户登录和注册页面</td></tr></tr><tr><td>micopyer</td><td>php文件，放在对应的文件夹下</td></tr></table>
 使用时将三个文件夹放在根目录下即可使用。
