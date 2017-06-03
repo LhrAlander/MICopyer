@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>小米帐号 - 注册</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="" rel="stylesheet">
+<link rel="shortcut icon" href="../img/favicon.ico" >
+<link rel="stylesheet" type="text/css" href="../css/MI-user-reset.css">
+<link rel="stylesheet" type="text/css" href="../css/MI-user-register.css">
+</head>
+<body>
+    <div class="wrapper">
+    	<div class="wrap">
+    		<div class="layout">
+    			<div class="n-frame device-frame reg_frame" id="main_container">
+    				<div class="external_logo_area">
+    					<a href="javascript:void(0)" class="milogo"></a>
+    				</div>
+    				<div class="title-item t_c">
+    					<h4 class="title_big30">注册小米帐号</h4>
+    				</div>
+    				<div class="step1" style="display: block;">
+    					<div class="regbox">
+    						<div class="phone_step1">
+    							<div class="listwrap" id="select-cycode" _region="CN" >
+    								<div class="listtit" id="reg-phone-select-cty">
+    									<div class="tits display_box">
+    										<p id="select-cycode-result">中国(+86)</p>
+    										<i class="icon_cirarr"></i>
+    									</div>
+    								</div>
+    							</div>
+    							<div class="inputbg">
+    								<label class="labelbox">
+    									<input id="phonenum" type="tel" name="phone" placeholder="请输入手机号码" >
+    								</label>
+    							</div>
+    							<div class="err_tip" style="display: none;">
+    								<div class="dis_box">
+    									<em class="icon_error"></em>
+    									<span class="numerror_tip">手机号码格式错误</span>
+    								</div>
+    							</div>
+    							<div class="inputbg inputcode">
+    								<label class="labelbox">
+    									<input type="text" name="icode" class="code" id="codestr" autocomplete="off" placeholder="图片验证码">
+    								</label>
+    								<img src="" alt="图片验证码" title="看不清换一张" class="icode_image code-image chkcode_img">
+    							</div>
+    							<div class="err_tip" style="display: none;">
+    								<div class="dis_box">
+    									<em class="icon_error"></em>
+    									<span class="codeerror_tip">请输入图片验证码</span>
+    								</div>
+    							</div>
+    							<div></div>
+    							<div class="mar_phone_dis1">
+    								<input class="btn332 btn_reg_1 submit-step" type="button" name="submit" value="立即注册">
+    								<p class="msg">
+    									点击“立即注册”，即表示您同意并愿意遵守小米
+    									<a href="" target="_blank" title="用户协议">用户协议</a>
+    									和
+    									<a href="" target="_blank" title="隐私政策">隐私政策</a>
+    								</p>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="regbox" style="display: none;">
+    					<div class="step2 phone_step2">
+    						<div class="step2_text">
+    							<p>
+    								我们已经发送一条验证短信至
+    								<span class="address-place ff6">
+    								
+    								</span>
+    							</p>
+    							<p>请输入短信中的验证码</p>
+    						</div>
+    						<div class="inputbg inputcode">
+    							<label class="labelbox wap_resend_label err_laebl">
+    								<input type="text" name="ticket" class="resendcode" placeholder="请输入验证码">
+    							</label>
+    							<span class="remain">
+    								<a href="javascript:void(0)" class="color333 send-status">重新发送</a>
+    							</span>
+    						</div>
+    						<div class="err_tip" style="display:none;">
+    							<div class="dis_box">
+    								<em class="icon_error"></em>
+    								<span class="meserror_tip">请输入短信验证码</span>
+    							</div>
+    						</div>
+    						<div class="err_tip send-left-times" style="display: none;">
+    						您今天已经发送太多短信，请换个时间或者改用其他号码</div>
+    						<div class="mar_phone_dis2">
+    							<input type="button" name="submit" class="btn332 btn_reg_1  submit-step" type="button" value="下一步" >
+    							<input type="button" name="submit" class="btn332 btn_reg_2  change-view" type="button" value="返回">
+    						</div>
+    					</div>
+    				</div>
+                    <div class="regbox" style="display: none;">
+                        <div class="step3 phone_step3">
+                            <dl>
+                                <dt>
+                                    <h4>您注册的手机号为
+                                        <span class="register-ph-num">
+                                        13588222489
+                                        </span>
+                                    </h4>
+                                    <h4>请设置您的密码：</h4>
+                                </dt>
+                                <dd>
+                                    <div class="inputbg">
+                                        <label class="labelbox">
+                                            <input type="password" name="password" class="set-password" placeholder="请输入密码">
+                                        </label>
+                                    </div>
+                                </dd>
+                                <dd>
+                                    <div class="inputbg">
+                                        <label class="labelbox">
+                                            <input type="password" name="repassword" class="repassword" placeholder="请输入确认密码">
+                                        </label>
+                                    </div>
+                                </dd>
+                            </dl>
+                            <div class="err_tip error-password pwd_tip" style="display: block;">
+                                <div class="dis_box">
+                                    <em class="icon_error err_icontip"></em>
+                                    <span class="err_passtip">密码长度8~16位，数字、字母、字符至少包含两种</span>
+                                </div>
+                            </div>
+                            <div class="mar_phone_dis3">
+                                <input type="button" name="" value="提交" class="btn332 btn_reg_1 submit-step">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="regbox" style="display: none;">
+                        <div class="phone_step4">
+                            <div class="t_c n_succ">
+                                <img class="dis_none" src="../img/succ.jpg">
+                                <h4>注册成功! </h4>
+                                <div class="fixed_bot mar_phone_dis4">
+                                    <a class="btn332 btn_reg_1 login-redirect"  href="MI-user-load.html">登录</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    			</div>
+    		</div>
+    	</div>
+    	
+    </div>
+    <div id="custom_display_4" class="n-footer">
+    	<div class="nf-link-area clearfix">
+    		<ul class="lang-select-list">
+    			<li>
+    				<a href="" class="lang-select-li current">简体</a>|
+				</li>	
+				<li>
+					<a href="" class="lang-select-li">繁体</a>|
+				</li>
+				<li>
+					<a href="" class="lang-select-li english">English</a>|
+				</li>
+				<li>
+					<a href="" class="lang-select-li problem">常见问题</a>
+    			</li>
+    		</ul>
+    	</div>
+
+    	<p class="nf-intro">
+    		<span>小米公司版权所有-京ICP备10046444-
+    			<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802020134">
+    				<span>
+    					<img src="../img/ghs.png">
+    				</span>
+    				<span>京公网安备11010802020134号
+    				</span>
+    			</a>
+    			-京ICP证110507号
+    		</span>
+    	</p>
+
+    </div>
+</body>
+<script type="text/javascript" src="../lib/jQuery/jquery.js"></script>
+<script type="text/javascript" src="../js/MI-user-register.js"></script>
+
+</html>

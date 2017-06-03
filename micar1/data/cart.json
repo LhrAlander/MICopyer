@@ -1,0 +1,293 @@
+{
+	"recommand": {
+		"items": [{
+			"goodsid": "1",
+			"imgsrc": "../img/cart/recommend/1.jpg",
+			"name": "小米笔记本Air 13.3英寸",
+			"price": "4999",
+			"people": "9684"
+		}, {
+			"goodsid": "2",
+			"imgsrc": "../img/cart/recommend/2.jpg",
+			"name": "小米笔记本Air 13.3英寸 尊享版",
+			"price": "5999",
+			"people": "1537"
+		}, {
+			"goodsid": "3",
+			"imgsrc": "../img/cart/recommend/3.jpg",
+			"name": "小米手环 2",
+			"price": "149",
+			"people": "15.4万"
+		}, {
+			"goodsid": "4",
+			"imgsrc": "../img/cart/recommend/4.jpg",
+			"name": "米家运动鞋(智能版) 男款",
+			"price": "249",
+			"people": "8238"
+		}, {
+			"goodsid": "5",
+			"imgsrc": "../img/cart/recommend/5.jpg",
+			"name": "小米无人机4K版套装 ",
+			"price": "2999",
+			"people": "323"
+		}, {
+			"goodsid": "6",
+			"imgsrc": "../img/cart/recommend/6.jpg",
+			"name": " 米家扫地机器人 ",
+			"price": "1699",
+			"people": "9821"
+		}, {
+			"goodsid": "7",
+			"imgsrc": "../img/cart/recommend/7.jpg",
+			"name": " 小米电视3s 65英寸 影院版 ",
+			"price": "6699",
+			"people": "4436"
+		}, {
+			"goodsid": "8",
+			"imgsrc": "../img/cart/recommend/8.jpg",
+			"name": " Amazfit 运动手表 ",
+			"price": "799",
+			"people": "4436"
+		}, {
+			"goodsid": "9",
+			"imgsrc": "../img/cart/recommend/9.jpg",
+			"name": " 小米路由器3 ",
+			"price": "149",
+			"people": "8.9万"
+		}, {
+			"goodsid": "10",
+			"imgsrc": "../img/cart/recommend/10.jpg",
+			"name": " 米家行车记录仪 ",
+			"price": "4999",
+			"people": "9684"
+		}, {
+			"goodsid": "11",
+			"imgsrc": "../img/cart/recommend/11.jpg",
+			"name": " 小米米家电动滑板车 ",
+			"price": "1999",
+			"people": "1762"
+		}, {
+			"goodsid": "12",
+			"imgsrc": "../img/cart/recommend/12.jpg",
+			"name": " 米家小白智能摄像机 ",
+			"price": "399",
+			"people": "9346"
+		}, {
+			"goodsid": "13",
+			"imgsrc": "../img/cart/recommend/13.jpg",
+			"name": " 米家IH电饭煲 3L ",
+			"price": "399",
+			"people": "8569"
+		}, {
+			"goodsid": "14",
+			"imgsrc": "../img/cart/recommend/14.jpg",
+			"name": " 米家智能摄像机 1080P ",
+			"price": "199",
+			"people": "1794"
+		}, {
+			"goodsid": "15",
+			"imgsrc": "../img/cart/recommend/15.jpg",
+			"name": "小米运动蓝牙耳机",
+			"price": "149",
+			"people": "7426"
+		}, {
+			"goodsid": "16",
+			"imgsrc": "../img/cart/recommend/16.jpg",
+			"name": " 10000mAh小米移动电源2 ",
+			"price": "79",
+			"people": "3.9万"
+		}, {
+			"goodsid": "17",
+			"imgsrc": "../img/cart/recommend/17.jpg",
+			"name": " 20000mAh小米移动电源2 ",
+			"price": "149",
+			"people": "1.3万"
+		}, {
+			"goodsid": "18",
+			"imgsrc": "../img/cart/recommend/18.jpg",
+			"name": " 小寻儿童电话手表 彩屏版 ",
+			"price": "199",
+			"people": "1524"
+		}, {
+			"goodsid": "19",
+			"imgsrc": "../img/cart/recommend/19.jpg",
+			"name": " 小米路由器 HD ",
+			"price": "1299",
+			"people": "428"
+		}, {
+			"goodsid": "20",
+			"imgsrc": "../img/cart/recommend/20.jpg",
+			"name": " 小米VR眼镜PLAY2 ",
+			"price": "99",
+			"people": "593"
+		}]
+	},
+	"other": {
+		"items": [{
+			"goodsid": "21",
+			"imgsrc": "../img/cart/recommend/21.jpg",
+			"name": " 小米手环2腕带 ",
+			"price": "19.9",
+			"people": "1.1万"
+		}, {
+			"goodsid": "22",
+			"imgsrc": "../img/cart/recommend/22.jpg",
+			"name": " 小米手环 2 ",
+			"price": "149",
+			"people": "15.4万"
+		}, {
+			"goodsid": "23",
+			"imgsrc": "../img/cart/recommend/23.jpg",
+			"name": " 小米手环2专用充电器 ",
+			"price": "9.9",
+			"people": "3214"
+		}, {
+			"goodsid": "24",
+			"imgsrc": "../img/cart/recommend/24.jpg",
+			"name": " 米家签字笔 ",
+			"price": "12.9",
+			"people": "3.7万"
+		}, {
+			"goodsid": "25",
+			"imgsrc": "../img/cart/recommend/25.jpg",
+			"name": " 米家随身风扇 ",
+			"price": "19.9",
+			"people": "1.5万"
+		}, {
+			"goodsid": "26",
+			"imgsrc": "../img/cart/recommend/26.jpg",
+			"name": " 彩虹5号电池（10粒装） ",
+			"price": "9.9",
+			"people": "9.9万"
+		}, {
+			"goodsid": "27",
+			"imgsrc": "../img/cart/recommend/27.jpg",
+			"name": " 最生活毛巾·青春系列 ",
+			"price": "19.9",
+			"people": "1.3万"
+		}, {
+			"goodsid": "28",
+			"imgsrc": "../img/cart/recommend/28.jpg",
+			"name": " 彩虹7号电池（10粒装） ",
+			"price": "9.9",
+			"people": "6.2万"
+		}, {
+			"goodsid": "29",
+			"imgsrc": "../img/cart/recommend/29.jpg",
+			"name": " 小米指环支架 ",
+			"price": "19",
+			"people": "1.1万"
+		}, {
+			"goodsid": "30",
+			"imgsrc": "../img/cart/recommend/30.jpg",
+			"name": " 米家LED随身灯 增强版 ",
+			"price": "19.9",
+			"people": "3.3万"
+		}]
+	},
+	"earphone": {
+		"items": [{
+			"goodsid": "31",
+			"imgsrc": "../img/cart/recommend/31.jpg",
+			"name": " 小米活塞耳机 清新版 黑色 ",
+			"price": "25"
+		}, {
+			"goodsid": "32",
+			"imgsrc": "../img/cart/recommend/32.jpg",
+			"name": " 小米活塞耳机 清新版 银色 ",
+			"price": "25"
+		}, {
+			"goodsid": "33",
+			"imgsrc": "../img/cart/recommend/33.jpg",
+			"name": " 小米活塞耳机 清新版 粉色 ",
+			"price": "25"
+		}, {
+			"goodsid": "34",
+			"imgsrc": "../img/cart/recommend/34.jpg",
+			"name": " 小米活塞耳机 清新版 紫色 ",
+			"price": "25"
+		}, {
+			"goodsid": "35",
+			"imgsrc": "../img/cart/recommend/35.jpg",
+			"name": " 小米活塞耳机 清新版 蓝色 ",
+			"price": "25"
+		}]
+	},
+	"fan": {
+		"items": [{
+			"goodsid": "36",
+			"imgsrc": "../img/cart/recommend/36.jpg",
+			"name": "米家随身风扇 蓝色",
+			"price": "14.9"
+		}, {
+			"goodsid": "37",
+			"imgsrc": "../img/cart/recommend/37.jpg",
+			"name": "米家随身风扇 白色",
+			"price": "14.9"
+		}]
+	},
+	"towel": {
+		"items": [{
+			"goodsid": "38",
+			"imgsrc": "../img/cart/recommend/38.jpg",
+			"name": "最生活毛巾·青春系列 绿色",
+			"price": "18"
+		}, {
+			"goodsid": "39",
+			"imgsrc": "../img/cart/recommend/39.jpg",
+			"name": "最生活毛巾·青春系列 蓝色",
+			"price": "18"
+		}, {
+			"goodsid": "40",
+			"imgsrc": "../img/cart/recommend/40.jpg",
+			"name": "最生活毛巾·青春系列 白色",
+			"price": "18"
+		}]
+	},
+	"photo": {
+		"items": [{
+			"goodsid": "41",
+			"imgsrc": "../img/cart/recommend/41.jpg",
+			"name": "小米自拍杆（线控版） 灰色",
+			"price": "39"
+		}, {
+			"goodsid": "42",
+			"imgsrc": "../img/cart/recommend/42.jpg",
+			"name": "小米自拍杆（线控版） 黑色",
+			"price": "39"
+		}]
+	},
+	"led": {
+		"items": [{
+			"goodsid": "43",
+			"imgsrc": "../img/cart/recommend/43.jpg",
+			"name": "米家LED随身灯 增强版 蓝色",
+			"price": "14.9"
+		}, {
+			"goodsid": "44",
+			"imgsrc": "../img/cart/recommend/44.jpg",
+			"name": "米家LED随身灯 增强版 白色",
+			"price": "14.9"
+		}]
+	},
+	"raise":{
+		"items":[
+			{
+				"price":"25",
+				"name":"小米活塞耳机 清新版"
+			},{
+				"price":"14.9",
+				"name":"米家随身风扇"
+			},{
+				"price":"18",
+				"name":"最生活毛巾·青春系列"
+			},{
+				"price":"39",
+				"name":"小米自拍杆（线控版"
+			},{
+				"price":"14.9",
+				"name":"米家LED随身灯"
+			}
+		]
+	}
+}

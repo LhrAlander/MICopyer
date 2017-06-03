@@ -38,4 +38,13 @@
 4.实现两个商品页面和一个购物车页面<br/>
 3.实现单个用户的购物车的添加与删除<br/>
 ## 数据表：
- 待各组员根据自己的分工需求独立设置数据表然后统一整理公布定
+数据库名称：xiaomi
+ 1.用户数据表 users：
+<table><tr><th>字段名称</th><th>类型</th></tr><tr><td>account</td><td>varchar(20)</td></tr><tr><td>password</td><td>varchar(20)</td></tr></table>
+2.用户购物车数据表 usergoods：
+<table><tr><th>字段名称</th><th>类型</th></tr><tr><td>username</td><td>varchar(20)</td></tr><tr><td>goodsid</td><td>int</td></tr><tr><td>num</td><td>int</td></tr><tr><td>gettype</td><td>varchar(20)</td></tr></table>
+
+##文件说明：
+因为在最后的一点的时间里各个成员递交的代码杂乱，没有时间做整合工作，所以独立了出来三个文件夹；
+<table><tr><th>文件夹</th><th>作用</th></tr><tr><td>tf</td><td>入口文件夹，包含了主页和两个商品页面</td></tr><tr><td>car1</td><td>购物车页面</td></tr><tr><td>web</td><td>用户登录和注册页面</td></tr></table>
+使用时将三个文件夹放在根目录下即可使用。

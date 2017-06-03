@@ -1,0 +1,351 @@
+{
+	"helpful":{
+		"items":[
+			{
+				"num":"4",
+				"question":"您好，请问这个保护套有支架的作用吗？",
+				"answer":" 您好，这款保护套没有支架功能。感谢您对小米的支持。 ",
+				"questiondate":"2015年10月7日",
+				"answerdate":"2015年10月7日"
+			},{
+				"num":"3",
+				"question":"货到付款可以吗",
+				"answer":" 您好，小米网提供支付宝、财付通，手机支付等第三方平台支付，同时支持国内二十多家主流银行机构的储蓄卡、信用卡的网上付款。暂时不支持货到付款哦，感谢您对小米的支持，祝您购物愉快~ ",
+				"questiondate":"2015年10月3日",
+				"answerdate":"2015年10月3日"
+			},{
+				"num":"3",
+				"question":"买这个手机套会送手机膜吗",
+				"answer":" 您好，非常抱歉，是没有赠品的哦。感谢您对小米的支持。 ",
+				"questiondate":"2015年10月2日",
+				"answerdate":"2015年10月3日"
+			},{
+				"num":"3",
+				"question":"为什么没有白色的？？？？",
+				"answer":" 您好，暂时没有的呢，如果之后有的话官网会有显示的， 您多多关注官网信息，以官网信息为准哦~感谢您对小米的支持。 ",
+				"questiondate":"2015年10月1日",
+				"answerdate":"2015年10月2日"
+			},{
+				"num":"2",
+				"question":"可以4i可以用嗎?",
+				"answer":" 您好，是不能用的呢，适用于 小米手机4c。感谢您对小米的支持~ ",
+				"questiondate":"2015年10月6日",
+				"answerdate":"2015年10月7日"
+			},{
+				"num":"2",
+				"question":"这是支持小米4c么？？",
+				"answer":" 您好，是可以用的呢，适用于 小米手机4c~感谢您对小米的支持~ ",
+				"questiondate":"2015年10月3日",
+				"answerdate":"2015年10月4日"
+			}
+		]
+	},
+	"new":{
+		"items":[
+			{
+				"num":"0",
+				"question":"小米4可以用吗？",
+				"answer":"  您好，本产品适用于小米手机4c，感谢您对小米的支持~  ",
+				"questiondate":"2017年5月17日",
+				"answerdate":"2017年5月17日"
+			},{
+				"num":"0",
+				"question":"红米4X可以用吗 ？",
+				"answer":"  您好，不可以使用。感谢您对小米的支持。 ~ ",
+				"questiondate":"2017年5月13日",
+				"answerdate":"2017年5月13日"
+			},{
+				"num":"0",
+				"question":"请问小米4C的保护外套有没有除了黑色的其他颜色？",
+				"answer":"  您好，目前暂时只有黑色的，其他颜色还未通知，建议您后续多多关注一下官网。感谢您对小米的支持。  ",
+				"questiondate":"2017年5月9日",
+				"answerdate":"2017年5月10日"
+			},{
+				"num":"0",
+				"question":"2015年买的小米4，可以用嗎?",
+				"answer":"  您好，小米4和小米4C不通用。感谢您对小米的支持。  您多多关注官网信息，以官网信息为准哦~感谢您对小米的支持。 ",
+				"questiondate":"2017年4月30日",
+				"answerdate":"2017年5月1日"
+			},{
+				"num":"0",
+				"question":"您好，小米4C的保护套4s能不能用呢？?",
+				"answer":"  您好，这款适用于 小米手机4c哦，感谢您对小米的支持。  ",
+				"questiondate":"2017年4月23日",
+				"answerdate":"2017年4月23日"
+			},{
+				"num":"0",
+				"question":"请问MAX可以用这个套吗？",
+				"answer":"  您好，这款适用于 小米手机4c 哦。感谢您对小米的支持。  ",
+				"questiondate":"2017年4月6日",
+				"answerdate":"2017年4月6日"
+			}
+		]
+	},
+	"carousel":{
+		"items":[
+			{
+				"imgsrc":"../img/goods/carousel01.jpg",
+				"name":" 小米手环 2 ",
+				"price":"149",
+				"peoplenum":"15.3万"
+			},{
+				"imgsrc":"../img/goods/carousel02.jpg",
+				"name":" 小米手环2专用充电器 ",
+				"price":"9.9",
+				"peoplenum":"3145"
+			},{
+				"imgsrc":"../img/goods/carousel03.jpg",
+				"name":"米家签字笔",
+				"price":"12.9",
+				"peoplenum":"3.7万"
+			},{
+				"imgsrc":"../img/goods/carousel04.jpg",
+				"name":"米家随身风扇",
+				"price":"19.9",
+				"peoplenum":"1.5万"
+			},{
+				"imgsrc":"../img/goods/carousel05.jpg",
+				"name":" 彩虹5号电池（10粒装） ",
+				"price":"9.9",
+				"peoplenum":"9.9万"
+			},{
+				"imgsrc":"../img/goods/carousel06.jpg",
+				"name":" 最生活毛巾·青春系列 ",
+				"price":"19.9",
+				"peoplenum":"1.2万"
+			},{
+				"imgsrc":"../img/goods/carousel07.jpg",
+				"name":" 彩虹7号电池（10粒装） ",
+				"price":"9.9",
+				"peoplenum":"6.2万"
+			},{
+				"imgsrc":"../img/goods/carousel08.jpg",
+				"name":"小米指环支架",
+				"price":"19",
+				"peoplenum":"1.1万"
+			},{
+				"imgsrc":"../img/goods/carousel09.jpg",
+				"name":" 米家LED随身灯 增强版 ",
+				"price":"19.9",
+				"peoplenum":"3.2万"
+			},{
+				"imgsrc":"../img/goods/carousel10.jpg",
+				"name":" 小米活塞耳机 清新版 ",
+				"price":"29",
+				"peoplenum":"3.5万"
+			}
+		]
+	},
+	"recommend":{
+		"items":[
+			{
+				"imgsrc":"../img/goods/carousel04.jpg",
+				"name":" 米家随身风扇 ",
+				"price":"19.9",
+				"peoplenum":"1.5万"
+			},{
+				"imgsrc":"../img/goods/carousel06.jpg",
+				"name":"最生活浴巾·青春系列",
+				"price":"99",
+				"peoplenum":"1302"
+			},{
+				"imgsrc":"../img/goods/carousel08.jpg",
+				"name":"小米指环支架",
+				"price":"19",
+				"peoplenum":"1.1万"
+			},{
+				"imgsrc":"../img/goods/recommend01.jpg",
+				"name":" 小米简约头层小牛皮钱包 ",
+				"price":"129",
+				"peoplenum":"2309"
+			},{
+				"imgsrc":"../img/goods/carousel03.jpg",
+				"name":"米家签字笔",
+				"price":"12.9",
+				"peoplenum":"3.7万"
+			},{
+				"imgsrc":"../img/goods/recommend02.jpg",
+				"name":" 8H多功能护颈枕U1 ",
+				"price":"79",
+				"peoplenum":"2356"
+			},{
+				"imgsrc":"../img/goods/recommend03.jpg",
+				"name":" 变形金刚特别版声波 ",
+				"price":"169",
+				"peoplenum":"2646"
+			},{
+				"imgsrc":"../img/goods/recommend04.jpg",
+				"name":" 小米小钢炮蓝牙音箱2 ",
+				"price":"129",
+				"peoplenum":"2.6万"
+			},{
+				"imgsrc":"../img/goods/recommend05.jpg",
+				"name":" 90分旅行箱 20寸 ",
+				"price":"299",
+				"peoplenum":"2.2万"
+			},{
+				"imgsrc":"../img/goods/recommend06.jpg",
+				"name":" 米兔智能故事机 ",
+				"price":"199",
+				"peoplenum":"1.9万"
+			}
+		]
+	},
+	"comments":{
+		"items":[
+			{
+				"bordertype":"8",
+				"userimgsrc":"../img/goods/c2967dfef7e98df036c463d50041edf7.png",
+				"username":"为爱而生",
+				"usertime":"2015年10月27日",
+				"proinfo":"黄色",
+				"amount":"16",
+				"content":"出差没在家，叫别人代取的，回来拆开才发现，皮套有瑕疵，怎么这样的东西都发出来了！虽然不影响使用，但是也不好看吧！",
+				"imgamount":"3",
+				"imgs":[
+					{
+						"imgsrc":"../img/goods/T1OBVgBQZT1RXrhCrK.jpg"
+					},{
+						"imgsrc":"../img/goods/T1GBKgBgbT1RXrhCrK.jpg"
+					},{
+						"imgsrc":"../img/goods/T17RDjBsbT1RXrhCrK.jpg"
+					}
+				],
+				"officail":{
+					"content":"您好，自签收之日起，如配件齐全且无人为损坏，七天无理由退货，十五天换货。如果在使用过程中出现异常的话，请您联系我们的在线客服或者拨打400-100-5678，我们一定竭诚为您服务，解决您遇到的问 题。感谢您的评价，因为米粉所以小米，小米的发展离不开您的支持。",
+					"amount":"13"
+				},
+				"comments":[
+					{
+						"imgsrc":"../img/goods/9bd716bcdd5d6e4968d3adc3c5b6353b.jpg",
+						"content":"我用的是莫凡手机壳",
+						"username":"空城旧梦"
+					},{
+						"imgsrc":"../img/goods/c52c11c915d43e0ac3286161eec4fcaf.jpg",
+						"content":"客服是美女吗",
+						"username":"deer毁梦神"
+					}
+				]
+			},{
+				"bordertype":"2",
+				"userimgsrc":"../img/goods/bWFBjEANZAN7fz_90.jpg",
+				"username":"庞博",
+				"usertime":"2016年8月4日",
+				"proinfo":"黑色",
+				"amount":"3",
+				"content":"非常好，质量好，智能解锁挺灵敏支持小米。",
+				"imgamount":"2",
+				"imgs":[
+					{
+						"imgsrc":"../img/goods/1470312797_8332010_s780_1040wh.jpg"
+					},{
+						"imgsrc":"../img/goods/1470312799_2668570_s1040_780wh.jpg"
+					}
+				],
+				"officail":{
+					"content":"因为米粉，所以小米。感谢您对小米的支持。",
+					"amount":"7"
+				},
+				"comments":[
+					{
+						"imgsrc":"../img/goods/f790b51a76afd7b41522048fa779d69d.jpg",
+						"content":"小米4可以用吗",
+						"username":"2011"
+					}
+				]
+			},{
+				"bordertype":"3",
+				"userimgsrc":"../img/goods/lLrqTyxVGjopT3_90.jpg",
+				"username":"仔仔",
+				"usertime":"2016年5月26日",
+				"proinfo":"黑色",
+				"amount":"5",
+				"content":" 很喜欢小米的产品，买了很多了。买这么多都没客服妹子啊 ",
+				"imgamount":"3",
+				"imgs":[
+					{
+						"imgsrc":"../img/goods/1464261708_7263816_commapi.jpg"
+					},{
+						"imgsrc":"../img/goods/1464261710_6802908_commapi.jpg"
+					},{
+						"imgsrc":"../img/goods/1464261712_3375583_commapi.jpg"
+					}
+				],
+				"officail":{
+					"content":"客服妹纸一直在你身边吖~只不过是在你看不到的地方而已~感谢您对小米的支持",
+					"amount":"6"
+				},
+				"comments":""
+			},{
+				"bordertype":"6",
+				"userimgsrc":"../img/goods/9bd716bcdd5d6e4968d3adc3c5b6353b.jpg",
+				"username":"1051378293",
+				"usertime":"2016年3月15日",
+				"proinfo":"黑色",
+				"amount":"2",
+				"content":" 手感不错 软软的很贴心～ ",
+				"imgamount":"1",
+				"imgs":[
+					{
+						"imgsrc":"../img/goods/T1bxWvBsLv1RXrhCrK.jpg"
+					}
+				],
+				"officail":{
+					"content":"放车里，放办公桌上，放餐桌上、就连放马桶边上，都辣么有档次，手机不离身的点赞。O(∩_∩)O，感谢您对小米的支持。",
+					"amount":"12"
+				},
+				"comments":""
+			},{
+				"bordertype":"5",
+				"userimgsrc":"../img/goods/52cc4721e1eaed5af47af693906205c8.jpg",
+				"username":"wonnona",
+				"usertime":"2016年7月6日",
+				"proinfo":"薄荷色",
+				"amount":"4",
+				"content":" 听说可以调戏客服？有帅哥吗？ ",
+				"imgamount":"0",
+				"imgs":"",
+				"officail":{
+					"content":"必须有~~丑男都有，更何况是帅哥了！感谢您对小米的支持。",
+					"amount":"18"
+				},
+				"comments":""
+			}
+		]
+	},
+	"newestcomments":{
+		"items":[
+			{
+				"time":"14小时前",
+				"content":" 以前的那个用坏了！一年一个 ",
+				"name":"张胜亚",
+				"amount":"0",
+				"bordertype":"2"
+			},{
+				"time":"21小时前",
+				"content":" 旧的不去新的不来～还是新的好～爽滑顺手",
+				"name":"176461551",
+				"amount":"0",
+				"bordertype":"4"
+			},{
+				"time":"昨天 14:58",
+				"content":"必须好啊，只有这一款",
+				"name":"114637749",
+				"amount":"0",
+				"bordertype":"6"
+			},{
+				"time":"昨天 07:26",
+				"content":"一如既往好用，小米品牌就是好。",
+				"name":"战狼",
+				"amount":"0",
+				"bordertype":"5"
+			},{
+				"time":"昨天 15:31",
+				"content":" 好用！第3次购买了！完美保护手机！希望以后能多出点颜色！！！",
+				"name":"218582497",
+				"amount":"0",
+				"bordertype":"3"
+			}
+		]
+	}
+}
