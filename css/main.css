@@ -368,3 +368,20 @@ div {
 	height: 19px;
 	background: url('../img/slogan2016.png');
 }
+
+
+.body {
+	height: 100px;
+	width: 100%;
+}
+.body .container {
+	width: 1226px;
+	margin: 0 auto;
+}
+.body .logo {
+	width: 62px;
+	height: 55px;
+	float: left;
+	margin-top: 22px;
+	background: red;
+}
