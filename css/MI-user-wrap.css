@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-05-18 16:00:52
+ * @version $Id$
+ */
+
+.h_panel,.login_banner{
+	width: 1130px;
+	margin:0 auto;
+}
+
+.h_logo{
+	width: 200px;
+	height: 98px;
+	background: url(../img/mistore_logo.png);
+	background-repeat: no-repeat;
+}
+
+.login_banner_panel{
+	width: 100%;
+	min-height: 588px;
+	position: absolute;
+	left:0;
+	top:98px;
+	
+}
+
+.lbnr{
+	background-color: #14212B;
+	left: 0;
+}
+
+.rbnr{
+	background-color: #14212B;
+	left: 50%;
+}
+
+.lbnr,.rbnr{
+	width: 50%;
+	height: 100%;
+	position: absolute;
+}
+
+.login_banner{
+	height: 588px;
+	background: url(../img/banner.jpg) no-repeat top center;
+    position: relative;
+}
+
+.n-footer{
+	height: 80px;
+	text-align: center;
+	margin-top: 100px;
+	background:#fff;
+	position: relative;
+	color: #757575;
+}

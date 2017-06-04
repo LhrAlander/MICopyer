@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>小米帐号 - 登录</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link rel="shortcut icon" href="../img/favicon.ico" >
+<link rel="stylesheet" type="text/css" href="../css/MI-user-reset.css">
+<link rel="stylesheet" type="text/css" href="../css/MI-user-load.css">
+
+</head>
+<body>
+    <div class="wrapper">
+    	<div class="bgiframe">
+    		<iframe id="bgiframe" src="MI-user-wrap.html" frameborder="0" scrolling="no"></iframe>
+    	</div>
+    	<div class="wrap">
+    		<div class="layout_panel">
+    			<div class="lbnr"></div>
+    			<div class="rbnr"></div>
+    			<div class="layout" id="layout">
+    				<div class="mainbox" id="login-main">
+    					<div class="nav_tabs_panel">
+    						<div id="nav-tabs" class="nav_tabs">
+    							<a href="javascript:void(0)" class="navtab-link now" >帐号登录</a>
+    							<span class="line"></span>
+    							<a href="javascript:void(0)" class="navtab-link" >扫码登录</a>
+    						</div>
+    					</div>
+    					<div class="tabs-con tabs_con now" style="display: block;">
+    						<div>
+    							<div class="login_area">
+    								<form id=login-main-form>
+    									<div class="loginbox">
+    										<div class="lgn_inputbg">
+    											<label class="labelbox login_user">
+    												
+    												<input class="item_account" type="text" name="user" id="username" autocomplete="off" placeholder="邮箱/手机号码/小米账号">
+    											</label>
+    											<label class="labelbox login_user">
+    												<!-- <div class="single_imgarea"></div> -->
+    												<input class="item_account" type="password" name="pwd" id="pwd" autocomplete="off" placeholder="密码">
+    											</label>
+    											<div class="lgncode" id="captcha" style="display: none;">
+    												<label class="labelbox code_label">
+    													<input type="text" id="captcha-code" class="code" placeholder="请输入图片验证码">
+    												</label>
+    												<img class="chkcode_img" id="captcha-img" src="../img/code1.jpg" alt="点击可刷新图片验证码">
+    											</div>
+    											<div class="err_tip" id="error-outcon" style="display: none;">
+    												<div class="dis_box">
+    													<em class="icon_error"></em>
+    													<span class="error-con"></span>
+    												</div>
+
+    											</div>
+    											<div class="btns_bg">
+    												<input 
+    												 herf="javascript:void(0)" class="btnadpt btn_orange" id="login-button" type="button" name="submit" value="立即登录">
+    											</div>
+
+    											<div class="other_login_type sns-login-container" id="custom_display_16">
+    												<fieldset class="oth_type_tit">
+    													<legend align="center" class="oth_type_txt">其他方式登录</legend>
+    												</fieldset>
+    												<div class="oth_type_links">
+    													<a href="" class="icon_type btn_qq sns-login-link" title="QQ登录" target="_blank">
+    														<i class="btn_sns_icontype icon_default_qq"></i>
+    													</a>
+    													<a href="" class="icon_type btn_weibo sns-login-link" title="微博登录" target="_blank">
+    														<i class="btn_sns_icontype icon_default_weibo"></i>
+    													</a>
+    													<a href="" class="icon_type btn_alipay sns-login-link" title="支付宝登录" target="_blank">
+    														<i class="btn_sns_icontype icon_default_alipay"></i>
+    													</a>
+    													<a href="" class="icon_type btn_weixin sns-login-link" title="微信登录" target="_blank">
+    														<i class="btn_sns_icontype icon_default_weixin"></i>
+    													</a>
+    												</div>
+    											</div>
+    										</div>
+    									</div>
+    								</form>
+    							</div>
+    							
+    						</div>
+    						<div class="n_links_area" id="custom_display_64">
+    							<a href="MI-user-register.html" class="outer-link">注册小米帐号</a>
+    							<span>|</span>
+    							<a href="" class="outer-link">忘记密码？</a>
+    						</div>
+    					</div>
+    					<div class="tabs-con tabs_con" style="display: none;">
+    						<div class="tab_qrcon">
+    							<div class="tab_code_iframe">
+    								<img src="../img/load.png"></img>
+    							</div>
+    							<div class="custom_sub_txt">
+    								<p>使用
+    									<span>小米商城APP</span>
+    									扫一扫
+    								</p>
+    								<p>请打开「设置 > 小米帐号 > 右上角扫一扫」扫码登录</p>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+    <div id="custom_display_4" class="n-footer">
+    	<div class="nf-link-area clearfix">
+    		<ul class="lang-select-list">
+    			<li>
+    				<a href="" class="lang-select-li current">简体</a>|
+				</li>	
+				<li>
+					<a href="" class="lang-select-li">繁体</a>|
+				</li>
+				<li>
+					<a href="" class="lang-select-li">English</a>|
+				</li>
+				<li>
+					<a href="" class="lang-select-li">常见问题</a>
+    			</li>
+    		</ul>
+    	</div>
+
+    	<p class="nf-intro">
+    		<span>小米公司版权所有-京ICP备10046444-
+    			<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802020134">
+    				<span>
+    					<img src="../img/ghs.png">
+    				</span>
+    				<span>京公网安备11010802020134号
+    				</span>
+    			</a>
+    			-京ICP证110507号
+    		</span>
+    	</p>
+
+    </div>
+</body>
+<script type="text/javascript" src="../lib/jQuery/jquery.js"></script>
+<script type="text/javascript" src="../js/MI-user-load.js"></script>
+</html>
