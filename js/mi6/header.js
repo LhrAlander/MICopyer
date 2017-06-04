@@ -10,7 +10,7 @@ function initNavItem(){
 	
 }
 function initHomeSlider(){
-	$('.home-slider').hide();
+	$('.home').hide();
 	$.getJSON("data/index/home.json", function(result) {
 					var data = result;
 					var template = $.templates("#homeSliderTmpl");
@@ -26,12 +26,12 @@ function initHomeSlider(){
 		
 	$('.header-gif').on({
 		mouseenter: function(e){
-			$('.home-slider').show();
+			$('.home').show();
 		},
 		mouseleave: function(e){
 			t=setTimeout(function(e){
 				if($('.header-gif:hover').length==0 && $('.home-slider:hover').length==0)
-				$('.home-slider').hide();
+				$('.home').hide();
 			},0);
 			
 		}
@@ -42,7 +42,7 @@ function initHomeSlider(){
 		},
 		mouseleave: function(){
 			if($('.header-gif:hover').length==0){
-				$('.home-slider').hide();
+				$('.home').hide();
 			}
 		}
 	})
