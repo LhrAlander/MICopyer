@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>答辩演示</title>
+	<link rel="stylesheet" type="text/css" href="CSS/jquery.fullPage.css">
+	<link rel="stylesheet" type="text/css" href="CSS/index.css">
+</head>
+<body>
+	<div id='fullpage'>
+		<div class="section section-hr">
+			<div class="slide slide-1">
+				<div class="container">
+					<h1>我的工作</h1>
+					<h2>整合代码</h2>
+					<h2>大部分js和后端代码的编写</h2>
+				</div>
+				
+			</div>
+			<div class="slide slide-2">
+				<div class="container">
+					<h1>事件的捕获和冒泡</h1>
+					<h2>鼠标是否在某一标签内？</h2>
+					<img src="img/slidehr01.png">
+				</div>
+			</div>
+		</div>
+		<div class="section section-tf">
+		<div class="slide">
+			<div class="image">
+				<img src="img/pptHover.jpg" alt="">
+			</div>
+			<div class="title">
+				<span>动态效果的css实现</span>
+			</div>
+			<div class="solution">
+				<code>
+				    <pre>
+					.change-item .review-wrapper {
+					    position: absolute;
+					    bottom: 0;
+					    left: 0;
+					    z-index: 3;
+					    width: 234px;
+					    height: 0;
+					    overflow: hidden;
+					    font-size: 12px;
+					    background: #ff6700;
+					    opacity: 0;
+					    -webkit-transition: all .2s linear;
+					    transition: all .2s linear;
+					}
+					.change-item:hover .review-wrapper {
+					    opacity: 1;
+					    height: 73px;
+					}
+				</pre>
+				</code>
+			</div>
+		</div>
+
+
+		<div class="slide">
+			<div class="image">
+				<img src="img/lazyload.jpg" alt="">
+			</div>
+			<div class="title">
+				<span>惰性加载，提高性能</span>
+			</div>
+			<div class="solution">
+				<code>
+				    <pre>if(h >= $(window).scrollTop()&&
+   h < ($(window).scrollTop()+$(window).height()/2)){
+	i.addClass('preload').addClass('is-visible');
+	i.next().addClass('preload').find(".video").attr('preload','auto'),i.hasClass("J_fragmentPerfor");
+	l && i.find(".video").length && i.find(".video")[0].play();
+        i.next().next().addClass('preload');
+}
+				</pre>
+				</code>
+			</div>
+		</div>
+
+		</div>
+
+
+
+
+	<div class="section section-yh">
+		<div class="slide slide-1">
+			<div class="container">
+				<h1 class="title">初步完成的效果图</h1>
+				<img src="img/pptimg/cart.PNG">
+                <img src="img/pptimg/empty.PNG">
+			</div>
+		</div>
+		<div class="slide slide-1">
+			<div class="container">
+				<h1 class="title">初步完成的js代码</h1>
+				<p>命名杂乱</p>
+				<p>方法的抽象</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
+<script type="text/javascript" src="LIB/jquery-3.2.1.js"></script>
+<script type="text/javascript" src='LIB/jquery.fullPage.js'></script>
+<script type="text/javascript" src='LIB/jquery.easings.min.js'></script>
+<script type="text/javascript" src='LIB/scrolloverflow.js'></script>
+<script type="text/javascript" src='JS/index.js'></script>
+
+
+

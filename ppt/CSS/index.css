@@ -1,0 +1,126 @@
+body {
+	font-family: "Microsoft YaHei" ! important;
+}
+
+#fullpage .section-hr .slide {
+	background-color: #C8F4DE;
+	color: #2C3E50;
+}
+
+.section .container {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.section-hr .slide-1 h1 {
+	position: relative;
+	top: 200px;
+	font-size: 70px;
+}
+
+.section-hr .slide-1 h2 {
+	display: inline-block;
+	margin-left: 100px;
+	position: relative;
+	top: 200px;
+	font-size: 50px;
+}
+
+
+.section-hr .slide-2 h1 {
+	position: relative;
+	top: 150px;
+	font-size: 70px;
+}
+.section-hr .slide-2 h2 {
+	display: block;
+	position: relative;
+	top: 200px;
+	font-size: 50px;
+}
+
+.section-hr .slide-2 img {
+	display: inline-block;;
+	position: relative;
+	top: 300px;
+}
+
+.section-tf {
+	background-color: #A4E5D9;
+}
+
+.section-tf .title {
+    display: inline-block;
+    position: relative;
+    left: 7%;
+}
+
+.section-tf .title span {
+    color: white;
+    font-size: 40px;
+}
+
+.section-tf .image {
+    display: inline-block;
+    position: relative;
+    width: 50%;
+    height: 50%;
+    left: 5%;
+    top: 100px;
+    overflow: hidden;
+}
+
+.section-tf .image img {
+    display: inline-block;
+    height: 100%;
+}
+
+
+.section-tf .solution {
+    display: inline-block;
+    position: relative;
+    width: 90%;
+    height: 30%;
+    top: 100px;
+    left: 5%;
+    background-color: #fff;
+    color: black;
+    overflow: auto;
+}
+
+
+.section-tf .solution pre {
+    font-size: 20px;
+}
+
+.section-yh {
+	background-color: #66C6BA;
+}
+
+.section-yh .slide-1 h1 {
+	position: relative;
+	top: 200px;
+	font-size: 50px;
+	color: #E3E3E3;
+}
+
+.section-yh .slide-1 img {
+	position: relative;
+	top: 205px;
+    margin-left: 20px;
+    max-width: 1400px;
+    min-width: 50px;
+    width: 547px;
+    height: 334px;
+}
+
+.section-yh .slide-1 p {
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 20px;
+	position: relative;
+	top: 220px;
+	font-size: 50px;
+	color: #E3E3E3;
+}

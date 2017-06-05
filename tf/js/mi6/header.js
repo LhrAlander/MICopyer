@@ -27,11 +27,14 @@ function initHomeSlider(){
 	$('.header-gif').on({
 		mouseenter: function(e){
 			$('.home-slider').show();
+			$('.home').show();
 		},
 		mouseleave: function(e){
 			t=setTimeout(function(e){
-				if($('.header-gif:hover').length==0 && $('.home-slider:hover').length==0)
-				$('.home-slider').hide();
+				if($('.header-gif:hover').length==0 && $('.home-slider:hover').length==0){
+					$('.home-slider').hide();
+					$('.home').hide();
+				}
 			},0);
 			
 		}

@@ -264,6 +264,7 @@ dl, menu, ol, ul {
 }
 .home {
     position: absolute;
+    display: none;
     top: 140px;
     height: 460px;
     width: 100%;
