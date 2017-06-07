@@ -15,7 +15,7 @@ $(document).ready(function(){
     xm_recommend_append();
     
     
-});//document
+});
 
 function init(){
     //header
@@ -552,6 +552,7 @@ function raise_buy_box_append(){
         raise_buy_box.css("display","flex");
     });
 }
+
 function model_init(){
     $("div[class^='modal'] div.modal-body li i").removeClass("other");
     $("div[class^='modal'] div.modal-body li i").removeClass("icon-radio");
